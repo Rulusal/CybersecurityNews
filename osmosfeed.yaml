@@ -1,4 +1,4 @@
-cacheUrl: https://rulusal.github.io/Ruveyda-Ulusal/CybersecurityNews/cache.json
+cacheUrl: https://rulusal.github.io/Ruveyda-Ulusal//CybersecurityNews/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
   - href: https://podcast.darknetdiaries.com/
