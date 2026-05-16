@@ -1,3 +1,4 @@
 cacheUrl: https://rulusal.github.io/Ruveyda-Ulusal//CybersecurityNews/cache.json
 sources:
   - href: https://podcast.darknetdiaries.com/
+  - href: https://feeds.feedburner.com/TheHackersNews?format=xml
